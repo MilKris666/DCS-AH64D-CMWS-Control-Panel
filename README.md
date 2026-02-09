@@ -20,7 +20,8 @@ If you’d prefer a proper laser-engraved Threat Sector Index, I can send you on
 
 # **RTFM** -- read the included **How-To.pdf** !!
 
-Assembly process: 
+Timelaps Video complete assambly process - from CAD to Combat: 
+
 [![YouTube Video](https://img.youtube.com/vi/SRy4TEh00R8/0.jpg)](https://www.youtube.com/watch?v=SRy4TEh00R8)
 
 
