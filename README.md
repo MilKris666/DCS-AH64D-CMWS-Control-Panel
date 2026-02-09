@@ -17,6 +17,7 @@ As with my other projects, I’ve included extra STL files for builders without 
 There is also an alternate Threat Sector Index version with a hole mask. It’s not quite as pretty as the laser-engraved version, but it absolutely does the job.
 If you’d prefer a proper laser-engraved Threat Sector Index, I can send you one - just contact me on Reddit.
 
+All files are located in the STLs.zip directory.
 
 # **RTFM** -- read the included **How-To.pdf** !!
 
