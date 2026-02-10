@@ -4,7 +4,7 @@
 
 This is my CMWS (Common Missile Warning System) Control Panel build for the DCS AH-64D Apache.
 
-The panel is driven by an Arduino Mega and a 1.3” OLED display. The Mega is required because the Uno simply doesn’t have enough RAM to run my code reliably - save yourself the headache and go straight to the Mega.
+The panel is driven by an Arduino Mega and a 1.3” OLED display and of course DCS BIOS (Skunkworks). The Mega is required because the Uno simply doesn’t have enough RAM to run my code reliably - save yourself the headache and go straight to the Mega.
 The Threat Sector Index is implemented with discrete LEDs for proper “something wants to kill you from that direction” vibes.
 
 Total cost: ~50€ depending on what you already have in your parts bin.
