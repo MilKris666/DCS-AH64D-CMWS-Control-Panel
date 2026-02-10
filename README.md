@@ -2,14 +2,16 @@
 
 ![Alt text](overview.jpg)
 
-This is my CMWS (Common Missile Warning System) Control Panel build for the DCS AH-64D Apache.
+This is my **CMWS (Common Missile Warning System) Control Panel** build for the DCS AH-64D Apache.
 
-The panel is driven by an Arduino Mega and a 1.3” OLED display and of course DCS BIOS (Skunkworks). The Mega is required because the Uno simply doesn’t have enough RAM to run my code reliably - save yourself the headache and go straight to the Mega.
+The panel is driven by by **DCS BIOS (Skunkworks)** an Arduino Mega and a 1.3” OLED display . The Mega is required because the Uno simply doesn’t have enough RAM to run my code reliably - save yourself the headache and go straight to the Mega.
+
 The Threat Sector Index is implemented with discrete LEDs for proper “something wants to kill you from that direction” vibes.
 
-Total cost: ~50€ depending on what you already have in your parts bin.
+**Total cost:** ~50€ depending on what you already have in your parts bin.
 
-Difficulty: Medium - you should know how to flash code to an Arduino using the Arduino IDE. If you’re not there yet, go watch the excellent tutorials from Hornets Nest first - they walk through the whole workflow step by step.
+**Difficulty: Medium** – you should know how to flash code to an Arduino using the Arduino DIE and setting up DCS BIOS. If you have no idea how to set up DCS BIOS or upload code to an Arduino, make sure to check out the excellent tutorial by Hornet’s Nest! 
+
 
 If that still feels too fiddly, feel free to contact me on Reddit - I can offer a pre-flashed Arduino as an alternative.
 As with my other projects, I’ve included extra STL files for builders without a laser engraver, so you can simply 3D-print the labels instead.
