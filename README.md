@@ -10,7 +10,7 @@ The Threat Sector Index is implemented with discrete LEDs for proper “somethin
 
 **Total cost: ~50€** depending on what you already have in your parts bin.
 
-**Difficulty: Medium** – you should know how to flash code to an Arduino using the Arduino DIE and setting up DCS BIOS. If you have no idea how to set up DCS BIOS or upload code to an Arduino, make sure to check out the excellent tutorial by Hornet’s Nest! 
+**Difficulty: Medium** – you should know how to flash code to an Arduino using the Arduino IDE and setting up DCS BIOS. If you have no idea how to set up DCS BIOS or upload code to an Arduino, make sure to check out the excellent tutorial by Hornet’s Nest! 
 
 If that still feels too fiddly, feel free to contact me on Reddit - I can offer a pre-flashed Arduino as an alternative.
 As with my other projects, I’ve included extra STL files for builders without a laser engraver, so you can simply 3D-print the labels instead.
